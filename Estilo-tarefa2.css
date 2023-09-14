@@ -1,0 +1,164 @@
+.conteiner{
+    display: flex;
+    justify-content: space-around;
+    background-color: orange;
+    
+    }
+.espaçamento1{
+    font-size: large;
+}
+.KK{
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    padding: 10px;
+    font-size: 15px;
+
+}
+.planos{
+    display: flex;
+    justify-content: space-between;
+    align-items: end ;
+}
+
+.Botões{
+    display: flex;
+    justify-content: space-around;
+      
+}
+.Botões{
+    background-color: brown;
+    padding: 10px 30px;
+    border-radius: 30px;
+    border: 1px solid orange;
+    font-size: 20px;
+}
+.B1{
+    
+    
+    background-color:white;
+    border: none;
+     color: blue;
+     padding: 10px 30px;
+     border-radius: 30px;
+     border: 1px solid orange;
+     font-size: 20px;
+ }
+
+    
+
+.B2{
+    background-color:white;
+    border: none;
+     color: blue;
+     padding: 10px 30px;
+     border-radius: 30px;
+     border: 1px solid orange;
+     font-size: 20px;
+ }
+
+.B3{
+    background-color:white;
+    border: none;
+     color: blue;
+     padding: 10px 30px;
+     border-radius: 30px;
+     border: 1px solid orange;
+     font-size: 20px;
+ }
+
+.P{
+    display: flex;
+    justify-content: center;
+    font-style: italic;
+    color: blue;
+    height: 60px;
+    
+}
+.im4{
+    height: 60px;
+}
+.V{
+    display: flex;
+    justify-content: center;
+    font-style: italic;
+    color: blue;
+    height: 60px;
+    
+}
+.Rodapé{
+    background-color: blueviolet;
+    display: flex;
+    flex-direction: row;
+}
+.ediçãoim4{
+    width: 200px;
+    height: 200px;
+
+}
+a{
+    text-decoration: none;
+    color: orange;
+    font-size: medium;
+    width: 20px;
+    height: 20px;
+}
+li{
+    list-style: none;
+}
+.animação{
+    display: flex;
+    background: -moz-linear-gradient('10deg');
+}
+
+button:hover{
+    background-color: brown;
+    color: white;
+}
+.equipamentos{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    
+    
+}
+.equipamentos button:hover{
+    background-color:white;
+    border: none;
+     color: blue;
+     padding: 10px 30px;
+     border-radius: 30px;
+     border: 1px solid orange;
+     font-size: 20px;
+}
+.TT{
+    display: flex;
+    justify-content: center;
+    color: blue;
+}
+.HH{
+    display: flex;
+    justify-content: center;
+}
+
+.Visto{
+    display: flex;
+    background-color: blue;
+    border-radius: 15px;
+    padding: 10px 30px;
+     border: 1px solid orange;
+     font-size: 20px;
+}
+.preço{
+    display: flex;
+    justify-content: center;
+    padding: 50px 30px;
+    
+}
+.PP{
+    display: flex;
+align-items: center;
+}
+.fundo{
+    background-color: yellow;
+}
